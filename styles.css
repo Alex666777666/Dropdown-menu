@@ -5,15 +5,10 @@
   margin: 8px;
   color: white;
   display: inline-block;
-  height: 41px;
   background-color: darkgreen;
-
   padding: 16px;
-
   opacity: 0.8;
-
   font-size: 16px;
-
   cursor: pointer;
 }
 .menu-button {
