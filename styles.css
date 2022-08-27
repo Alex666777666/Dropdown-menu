@@ -15,8 +15,6 @@
   background-color: darkgreen;
   color: white;
   cursor: pointer;
-
-  font-size: 16px;
 }
 .menu-list {
   position: absolute;
@@ -43,4 +41,7 @@
 }
 .menu-list:hover {
   background-color: ghostwhite;
+}
+.menu-button:hover {
+  font-size: 16px;
 }
