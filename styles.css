@@ -4,12 +4,9 @@
 
 .dropdown {
   margin: 8px;
-
-  background-color: darkgreen;
-
   color: white;
-
   display: inline-block;
+  background-color: darkgreen;
 
   padding: 16px;
 
