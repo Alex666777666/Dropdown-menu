@@ -12,8 +12,9 @@
   cursor: pointer;
 }
 .menu-button {
-  padding: 16px;
   background-color: darkgreen;
+  cursor: pointer;
+  display: block;
 }
 .dropdown:hover {
   opacity: 1;
