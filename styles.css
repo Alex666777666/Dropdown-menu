@@ -15,10 +15,10 @@
   background-color: darkgreen;
   color: white;
   cursor: pointer;
-  display: inline-block;
+  display: block;
 }
 .menu-list {
-  position: absolute;
+  position: relative;
   color: black;
   list-style-type: none;
   background-color: lightcyan;
