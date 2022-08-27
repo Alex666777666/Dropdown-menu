@@ -8,6 +8,7 @@
   padding: 8px;
   height: 34px;
   cursor: pointer;
+  min-width: 120px;
 }
 .menu-button {
   padding: 16px;
