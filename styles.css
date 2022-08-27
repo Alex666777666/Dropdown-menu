@@ -2,8 +2,7 @@
   box-sizing: border-box;
 }
 .dropdown {
-  margin: 16px;
-
+  padding: 16px;
   display: inline-block;
   padding: 8px;
   height: 41px;
