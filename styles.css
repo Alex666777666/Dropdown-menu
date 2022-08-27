@@ -3,10 +3,10 @@
 }
 .dropdown {
   margin: 8px;
-  padding: 16px;
-  display: contents;
   padding: 8px;
-  height: 41px;
+  display: flex;
+
+  height: 80px;
   cursor: pointer;
   opacity: 0.8;
 }
