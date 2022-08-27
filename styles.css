@@ -40,7 +40,7 @@
   display: block;
   cursor: pointer;
 }
-.menu-list:hover {
+.menu-item:hover {
   background-color: ghostwhite;
 }
 .menu-button:hover {
