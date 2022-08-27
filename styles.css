@@ -12,6 +12,7 @@
   cursor: pointer;
 }
 .menu-button {
+  padding: 2px;
   background-color: darkgreen;
   cursor: pointer;
   display: block;
