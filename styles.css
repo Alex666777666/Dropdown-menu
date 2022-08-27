@@ -6,9 +6,8 @@
   position: relative;
   display: inline-block;
   padding: 8px;
-  height: 34px;
+  height: 22px;
   cursor: pointer;
-  min-width: 120px;
 }
 .menu-button {
   padding: 16px;
