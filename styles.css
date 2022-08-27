@@ -34,9 +34,8 @@
 .menu-item {
   padding: 16px;
 }
-.menu-button {
+.dropdown:hover {
   opacity: 1;
-  cursor: pointer;
 }
 .dropdown:hover .menu-list {
   display: block;
