@@ -2,11 +2,11 @@
   box-sizing: border-box;
 }
 .dropdown {
-  margin: 22px;
-  padding: 8px;
+  margin: 12px;
+  padding: 30px;
   display: flex;
 
-  height: 70px;
+  height: 110px;
   cursor: pointer;
   opacity: 0.8;
 }
