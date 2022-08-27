@@ -15,7 +15,7 @@
   background-color: darkgreen;
   color: white;
   cursor: pointer;
-  display: block;
+  display: inline-block;
 }
 .menu-list {
   position: absolute;
