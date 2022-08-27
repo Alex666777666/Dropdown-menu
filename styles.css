@@ -1,5 +1,4 @@
 .dropdown {
-
   margin: 16px;
 
   background-color: darkgreen;
@@ -15,23 +14,13 @@
   font-size: 16px;
 
   cursor: pointer;
-
 }
-
-
-
 
 .dropdown:hover {
-
   opacity: 1;
-
 }
 
-
-
-
 .menu-list {
-
   position: absolute;
 
   color: black;
@@ -55,32 +44,25 @@
   left: 16px;
 
   top: 66px;
-
 }
-
-
-
 
 .menu-item {
-
   padding: 16px;
-
 }
-
-
-
 
 .dropdown:hover .menu-list {
-
   display: block;
-
 }
 
-
-
-
 .menu-item:hover {
-
   background-color: ghostwhite;
-
+}
+.menu-button {
+  margin: 16px;
+  background-color: darkgreen;
+  opacity: 0.8;
+  color: white;
+}
+.menu-button:hover {
+  opacity: 1;
 }
